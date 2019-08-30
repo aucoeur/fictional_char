@@ -34,3 +34,7 @@ img {
     display: block;
     margin: auto;
 }
+
+a {
+    color: hsl(133, 100%, 50%)
+}
